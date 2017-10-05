@@ -1,18 +1,18 @@
-function decimalToBinary(num){
-    string = ''
-    for(var i = num; i >= 0; i--){
-        if(num >= Math.pow(2,i)){
-            num = num - Math.pow(2,i)
-            string += '1'
-        } else {
-            string += '0'
-        }
-    }
-    return string
-}
+// function decimalToBinary(num){
+//     string = ''
+//     for(var i = num; i >= 0; i--){
+//         if(num >= Math.pow(2,i)){
+//             num = num - Math.pow(2,i)
+//             string += '1'
+//         } else {
+//             string += '0'
+//         }
+//     }
+//     return string
+// }
 
 
-console.log(decimalToBinary(2973))
+// console.log(decimalToBinary(2973))
 
 
 

@@ -37,7 +37,7 @@ function getDefinition(word){
 
 
 PushWord('walk', 'move legs')
-PushWord('xavier', 'some jamaican nigga')
+PushWord('xavier', 'some jamaican')
 PushWord('code', 'to be a software developer')
 
 

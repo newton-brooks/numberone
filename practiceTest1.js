@@ -231,6 +231,8 @@
 
 // convertVowelsGeneric('tuesday is my favorite day', 'blue')
 
+//  The function above subs in the word for every vowel thats in the string. 
+
 
 
 
