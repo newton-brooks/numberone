@@ -79,4 +79,3 @@ rl.on('line', function(input){
         console.log("Please enter one of the valid commands: add (task), 'show all', 'show active', 'show completed', toggle (tasks Number) ")
     }
 })
-
